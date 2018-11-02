@@ -6,11 +6,11 @@ Tech Summit Japan 2018 で Drew さんとやる General Session の demo スク�
 
 モバイルアプリを作るときに、ビルドからテスト、配布まで全部一貫して速く良い感じにやりたい
 
-## 事前準備
+## 事前準備 Preparation
 
-* Android / iOS 実機にアプリをインストール済み・起動しておく
+* Android / iOS 実機にアプリを install 済み・起動しておく
 * 開発マシンで Docker for Windows を立ち上げておく
-* VS では説明順にコードのタブを開けておく
+* VS では説明順にコードの tab を開けておく
     1. [SmartHotel.Clients/Services/Request/**RequestService.cs**](https://github.com/chomado/SmartHotel360-Mobile-master/blob/master/Source/SmartHotel.Clients/SmartHotel.Clients/Services/Request/RequestService.cs)
     1. [SmartHotel.Clients/Services/Authentication/**AuthenticationService.cs**](https://github.com/chomado/SmartHotel360-Mobile-master/blob/master/Source/SmartHotel.Clients/SmartHotel.Clients/Services/Authentication/AuthenticationService.cs)
     1. [SmartHotel.Clients/Services/Geolocator/**LocationService.cs**](https://github.com/chomado/SmartHotel360-Mobile-master/blob/master/Source/SmartHotel.Clients/SmartHotel.Clients/Services/Geolocator/LocationService.cs)
@@ -18,7 +18,7 @@ Tech Summit Japan 2018 で Drew さんとやる General Session の demo スク�
     1. [SmartHotel.Core.Invoicing/**Invoice.cs**](https://github.com/chomado/SmartHotel360-Mobile-master/blob/master/Source/SmartHotel.Core.Invoicing/Invoice.cs)
     1. [SmartHotel.Core.Invoicing/**ExportService.cs**](https://github.com/chomado/SmartHotel360-Mobile-master/blob/master/Source/SmartHotel.Core.Invoicing/ExportService.cs)
     1. [SmartHotel.Clients/**App.xaml.cs**](https://github.com/chomado/SmartHotel360-Mobile-master/blob/master/Source/SmartHotel.Clients/SmartHotel.Clients/App.xaml.cs)
-* App Center 開いておく
+* Web browser で App Center 開いておく。5つのタブになる
 
 ## 01: 今回のデモアプリ Smart Hotel 360 の説明 (How the demo app works)
 
