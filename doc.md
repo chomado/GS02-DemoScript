@@ -170,7 +170,7 @@ Azure Active Directory チームと協力して、この一行だけで認証を
 
 このライブラリは現在 .NET Standard ライブラリの中に入っています
 
-Drew (Explains what this one line do about OAuth) "OK so hang on, so it's that one line, (~), when you clicked the login button on iOS simulator, the one line opens the web browser to have me log in, collects the token and brings it back, is all encapsulated (~)"
+Drew (Explains what this one line do about OAuth) "OK so hang on, so it's that one line, (～), when you clicked the login button on iOS simulator, the one line opens the web browser to have me log in, collects the token and brings it back, is all encapsulated (～)"
 
 
 ### 位置情報編 Location Service
